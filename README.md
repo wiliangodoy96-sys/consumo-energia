@@ -9,9 +9,9 @@ A fórmula utilizada foi: **ConsumoMensal = (Potência × Horas por dia × 30) /
 :computer:
 # Execução
 O usuário informa:
-** - Aparelho em Uso:**
-** - Potência em Kw:**
-** - Horas por Dia:**
+**Aparelho em Uso:**
+**Potência em Kw:**
+**Horas por Dia:**
 
 ## Tecnologia Utilizadas
 :snake: Pyphon|:octocat: GitHub|:twisted_rightwards_arrows: Git
