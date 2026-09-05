@@ -6,7 +6,7 @@ Este projeto foi feito em Python para calcular o consumo mensal de energia de um
 # Fórmula usada
 A fórmula utilizada foi: **ConsumoMensal = (Potência × Horas por dia × 30) / 1000**
 
-:Computer:
+:computer:
 # Execução
 O usuário informa:
 ** - Aparelho em Uso:**
