@@ -1,14 +1,14 @@
 ![Energia](https://img.shields.io/badge/Consumo%20de%20Energia-green)
 
-:PYTHON:
+:Snake:
 # Consumo-Energia – Cálculo de Consumo Estimado em kWh de Aparelho Eletroeletrônicos
 Este projeto foi feito em Python para calcular o consumo mensal de energia de um aparelho.
 
-:ABACUS:
+:Abacus:
 # Fórmula usada
 A fórmula utilizada foi: **ConsumoMensal = (Potência × Horas por dia × 30) / 1000**
 
-:COMPUTER:
+:Computer:
 # Execução
 O usuário informa:
 **Aparelho em Uso:**
